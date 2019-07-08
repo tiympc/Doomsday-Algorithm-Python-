@@ -5,4 +5,4 @@ To run,
 
 1) Open your terminal / command prompt.
 2) Go to your directory which includes doomsday.py.
-3) To run the script, enter "python doomsday.py *month in numerical form* *day in numerical form* *year in numerical form*".
+3) To run the script, enter `python doomsday.py *month in numerical form* *day in numerical form* *year in numerical form*`.
